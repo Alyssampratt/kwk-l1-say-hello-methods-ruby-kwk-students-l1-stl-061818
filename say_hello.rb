@@ -1,1 +1,4 @@
-say_hello.rb
+def say_hello
+  puts "hello #{name}!"
+end
+say_hello (alyssa)
